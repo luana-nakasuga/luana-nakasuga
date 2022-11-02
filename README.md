@@ -5,7 +5,7 @@
 <div align="center">
  <a href="https://github.com/luana-nakasuga">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luana-nakasuga&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luana-nakasuga&include_all_layout=compact&theme=synthwave"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luana-nakasuga&include_all_layout=compact&theme=synthwave&include_all_langs=true&count_private=true"/>
 </div>
 
 <div align="center">
